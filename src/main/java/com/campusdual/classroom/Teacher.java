@@ -16,4 +16,6 @@ public class Teacher extends Person {
 	public void setArea(String area) {
 		this.area = area;
 	}
+
+
 }

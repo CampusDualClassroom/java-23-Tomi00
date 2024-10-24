@@ -16,4 +16,6 @@ public class PoliceOfficer extends Person {
 	public void setSquad(String squad) {
 		this.squad = squad;
 	}
+
+
 }
