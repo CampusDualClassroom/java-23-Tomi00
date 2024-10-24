@@ -25,7 +25,7 @@ public class Person {
 		this.surname = surname;
 	}
 
-	public void getDetails() {
-		System.out.println("Nombre completo: " + name + " " + surname);
+	public String getDetails() {
+		return "Nombre completo: " + name + " " + surname;
 	}
 }
